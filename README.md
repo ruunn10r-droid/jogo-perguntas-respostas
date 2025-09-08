@@ -14,4 +14,4 @@ Um jogo simples em C para treinar lógica de programação. O usuário responde 
 ##  Como instalar e rodar
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seuusuario/jogo-perguntas-respostas.git
+   git clone https://github.com/ruunn10r-droide/jogo-perguntas-respostas.git

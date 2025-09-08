@@ -1,17 +1,25 @@
-# jogo-perguntas-respostas
-Um jogo simples em C para treinar lógica de programação. O usuário responde perguntas de múltipla escolha e o sistema calcula a pontuação final.
+# 🎮 Jogo de Perguntas e Respostas
 
-##  Funcionalidades
+Um projeto simples em **C** para treinar lógica de programação.  
+O usuário responde perguntas de múltipla escolha e o sistema calcula a pontuação final.
+
+---
+
+## 🚀 Funcionalidades
 - Perguntas de múltipla escolha
-- Contagem de pontos
+- Contagem de pontos do jogador
 - Resultado final (aprovado/reprovado)
-- Sistema de feedback imediato
+- Feedback imediato para cada resposta
 
-##  Tecnologias
-- Linguagem C
-- Compilador GCC
+---
 
-##  Como instalar e rodar
+## 🛠 Tecnologias
+- Linguagem **C**
+- Compilador **GCC** (ou qualquer outro compilador C)
+
+---
+
+## ▶ Como instalar e rodar
 1. Clone este repositório:
    ```bash
-   https://github.com/ruunn10r-droid/jogo-perguntas-respostas/tree/main
+   git clone https://github.com/ruunn10r-droid/jogo-perguntas-respostas.git
